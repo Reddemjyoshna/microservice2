@@ -1,0 +1,6 @@
+com\MicroserviceCrud\MicroserviceCrud\repository\UserRepository.class
+com\MicroserviceCrud\MicroserviceCrud\entity\User.class
+com\MicroserviceCrud\MicroserviceCrud\MicroserviceCrudApplication.class
+com\MicroserviceCrud\MicroserviceCrud\service\impl\UserServiceImpl.class
+com\MicroserviceCrud\MicroserviceCrud\controller\UserController.class
+com\MicroserviceCrud\MicroserviceCrud\service\UserService.class
